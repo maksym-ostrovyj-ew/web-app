@@ -1,0 +1,9 @@
+---
+model: vertexai/gemini-2.5-flash
+input:
+  schema:
+    language: string
+---
+
+A greating in {{language}}.
+Nothing else.
